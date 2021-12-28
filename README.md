@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Languages-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Interests-Java,%20Javascript,%20Python-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-IntelliJ%20Idea-informational?style=flat&logo=IntelliJ%20Idea&logoColor=white&color=2bbc8a)
 
 
 <!-- Actual text -->
