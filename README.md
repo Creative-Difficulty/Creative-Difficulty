@@ -7,7 +7,7 @@
 <!-- Actual text -->
 # GitHub Stats
 ![Creative-Difficultys GitHub stats](https://github-readme-stats.vercel.app/api?username=Creative-Difficulty&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-Difficulty)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Creative-Difficulty)
 
 
 <!-- Icons -->
