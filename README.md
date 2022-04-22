@@ -20,8 +20,7 @@
 
 
 <!-- Links to your social media accounts -->
-You can find me on Twitter.
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+You can find me on Twitter[1].
 [1]: https://twitter.com/seasonednacho
 
 <!---
