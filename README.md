@@ -16,6 +16,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creative-difficulty&hide=TeX&layout=compact)
 [![Creative.Difficulty's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OneAlex63)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creative-difficulty&hide=TeX&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/126d311a-f067-41b9-8aaa-d8536caded18.svg)](https://wakatime.com/@126d311a-f067-41b9-8aaa-d8536caded18)
 
